@@ -1,0 +1,267 @@
+qgis2web GitHub Splitter — raport
+==============================================
+Źródło: C:\Users\praco\Desktop\test splitera\README
+Próg dzielenia: 1.00 MB
+Docelowy rozmiar części: 0.90 MB
+
+layers/entitiesL_4.js
+  status: SPLIT
+  rozmiar przed: 31.54 MB
+  feature'y: 17481 -> 17481
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesL_4_init.js: 0.00 MB | feature'y: 0
+    - entitiesL_4_part001.js: 0.90 MB | feature'y: 1438
+    - entitiesL_4_part002.js: 0.90 MB | feature'y: 1423
+    - entitiesL_4_part003.js: 0.90 MB | feature'y: 868
+    - entitiesL_4_part004.js: 0.90 MB | feature'y: 310
+    - entitiesL_4_part005.js: 0.90 MB | feature'y: 287
+    - entitiesL_4_part006.js: 0.90 MB | feature'y: 319
+    - entitiesL_4_part007.js: 0.90 MB | feature'y: 377
+    - entitiesL_4_part008.js: 0.90 MB | feature'y: 269
+    - entitiesL_4_part009.js: 0.90 MB | feature'y: 318
+    - entitiesL_4_part010.js: 0.90 MB | feature'y: 396
+    - entitiesL_4_part011.js: 0.90 MB | feature'y: 360
+    - entitiesL_4_part012.js: 0.90 MB | feature'y: 327
+    - entitiesL_4_part013.js: 0.90 MB | feature'y: 368
+    - entitiesL_4_part014.js: 0.90 MB | feature'y: 361
+    - entitiesL_4_part015.js: 0.90 MB | feature'y: 867
+    - entitiesL_4_part016.js: 0.90 MB | feature'y: 472
+    - entitiesL_4_part017.js: 0.90 MB | feature'y: 540
+    - entitiesL_4_part018.js: 0.90 MB | feature'y: 463
+    - entitiesL_4_part019.js: 0.90 MB | feature'y: 414
+    - entitiesL_4_part020.js: 0.90 MB | feature'y: 502
+    - entitiesL_4_part021.js: 0.90 MB | feature'y: 420
+    - entitiesL_4_part022.js: 0.90 MB | feature'y: 398
+    - entitiesL_4_part023.js: 0.90 MB | feature'y: 425
+    - entitiesL_4_part024.js: 0.90 MB | feature'y: 431
+    - entitiesL_4_part025.js: 0.90 MB | feature'y: 459
+    - entitiesL_4_part026.js: 0.90 MB | feature'y: 477
+    - entitiesL_4_part027.js: 0.90 MB | feature'y: 411
+    - entitiesL_4_part028.js: 0.90 MB | feature'y: 354
+    - entitiesL_4_part029.js: 0.90 MB | feature'y: 388
+    - entitiesL_4_part030.js: 0.90 MB | feature'y: 511
+    - entitiesL_4_part031.js: 0.90 MB | feature'y: 427
+    - entitiesL_4_part032.js: 0.90 MB | feature'y: 464
+    - entitiesL_4_part033.js: 0.90 MB | feature'y: 407
+    - entitiesL_4_part034.js: 0.90 MB | feature'y: 568
+    - entitiesL_4_part035.js: 0.90 MB | feature'y: 557
+    - entitiesL_4_part036.js: 0.13 MB | feature'y: 105
+
+layers/entitiesL_6.js
+  status: SPLIT
+  rozmiar przed: 3.47 MB
+  feature'y: 2607 -> 2607
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesL_6_init.js: 0.00 MB | feature'y: 0
+    - entitiesL_6_part001.js: 0.90 MB | feature'y: 591
+    - entitiesL_6_part002.js: 0.90 MB | feature'y: 806
+    - entitiesL_6_part003.js: 0.90 MB | feature'y: 576
+    - entitiesL_6_part004.js: 0.78 MB | feature'y: 634
+
+layers/entitiesL_8.js
+  status: SPLIT
+  rozmiar przed: 129.98 MB
+  feature'y: 180949 -> 180949
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesL_8_init.js: 0.00 MB | feature'y: 0
+    - entitiesL_8_part001.js: 0.90 MB | feature'y: 1294
+    - entitiesL_8_part002.js: 0.90 MB | feature'y: 230
+    - entitiesL_8_part003.js: 0.90 MB | feature'y: 430
+    - entitiesL_8_part004.js: 0.90 MB | feature'y: 1560
+    - entitiesL_8_part005.js: 0.90 MB | feature'y: 1308
+    - entitiesL_8_part006.js: 0.90 MB | feature'y: 1405
+    - entitiesL_8_part007.js: 0.90 MB | feature'y: 1456
+    - entitiesL_8_part008.js: 0.90 MB | feature'y: 1432
+    - entitiesL_8_part009.js: 0.90 MB | feature'y: 1269
+    - entitiesL_8_part010.js: 0.90 MB | feature'y: 1422
+    - entitiesL_8_part011.js: 0.90 MB | feature'y: 1599
+    - entitiesL_8_part012.js: 0.90 MB | feature'y: 1210
+    - entitiesL_8_part013.js: 0.90 MB | feature'y: 1443
+    - entitiesL_8_part014.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part015.js: 0.90 MB | feature'y: 1689
+    - entitiesL_8_part016.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part017.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part018.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part019.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part020.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part021.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part022.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part023.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part024.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part025.js: 0.90 MB | feature'y: 1692
+    - entitiesL_8_part026.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part027.js: 0.90 MB | feature'y: 1689
+    - entitiesL_8_part028.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part029.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part030.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part031.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part032.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part033.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part034.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part035.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part036.js: 0.90 MB | feature'y: 1682
+    - entitiesL_8_part037.js: 0.90 MB | feature'y: 1684
+    - entitiesL_8_part038.js: 0.90 MB | feature'y: 1683
+    - entitiesL_8_part039.js: 0.90 MB | feature'y: 1694
+    - entitiesL_8_part040.js: 0.90 MB | feature'y: 1688
+    - entitiesL_8_part041.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part042.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part043.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part044.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part045.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part046.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part047.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part048.js: 0.90 MB | feature'y: 1689
+    - entitiesL_8_part049.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part050.js: 0.90 MB | feature'y: 1684
+    - entitiesL_8_part051.js: 0.90 MB | feature'y: 1689
+    - entitiesL_8_part052.js: 0.90 MB | feature'y: 1677
+    - entitiesL_8_part053.js: 0.90 MB | feature'y: 1689
+    - entitiesL_8_part054.js: 0.90 MB | feature'y: 1676
+    - entitiesL_8_part055.js: 0.90 MB | feature'y: 1680
+    - entitiesL_8_part056.js: 0.90 MB | feature'y: 1681
+    - entitiesL_8_part057.js: 0.90 MB | feature'y: 1680
+    - entitiesL_8_part058.js: 0.90 MB | feature'y: 1695
+    - entitiesL_8_part059.js: 0.90 MB | feature'y: 1693
+    - entitiesL_8_part060.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part061.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part062.js: 0.90 MB | feature'y: 1689
+    - entitiesL_8_part063.js: 0.90 MB | feature'y: 1680
+    - entitiesL_8_part064.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part065.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part066.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part067.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part068.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part069.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part070.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part071.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part072.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part073.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part074.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part075.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part076.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part077.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part078.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part079.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part080.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part081.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part082.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part083.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part084.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part085.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part086.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part087.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part088.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part089.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part090.js: 0.90 MB | feature'y: 1687
+    - entitiesL_8_part091.js: 0.90 MB | feature'y: 1685
+    - entitiesL_8_part092.js: 0.90 MB | feature'y: 1605
+    - entitiesL_8_part093.js: 0.90 MB | feature'y: 560
+    - entitiesL_8_part094.js: 0.90 MB | feature'y: 783
+    - entitiesL_8_part095.js: 0.90 MB | feature'y: 336
+    - entitiesL_8_part096.js: 0.90 MB | feature'y: 547
+    - entitiesL_8_part097.js: 0.90 MB | feature'y: 463
+    - entitiesL_8_part098.js: 0.90 MB | feature'y: 528
+    - entitiesL_8_part099.js: 0.90 MB | feature'y: 233
+    - entitiesL_8_part100.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part101.js: 0.90 MB | feature'y: 241
+    - entitiesL_8_part102.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part103.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part104.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part105.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part106.js: 0.90 MB | feature'y: 1332
+    - entitiesL_8_part107.js: 0.90 MB | feature'y: 427
+    - entitiesL_8_part108.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part109.js: 0.90 MB | feature'y: 799
+    - entitiesL_8_part110.js: 0.90 MB | feature'y: 316
+    - entitiesL_8_part111.js: 0.90 MB | feature'y: 234
+    - entitiesL_8_part112.js: 0.90 MB | feature'y: 324
+    - entitiesL_8_part113.js: 0.90 MB | feature'y: 310
+    - entitiesL_8_part114.js: 0.90 MB | feature'y: 791
+    - entitiesL_8_part115.js: 0.90 MB | feature'y: 636
+    - entitiesL_8_part116.js: 0.90 MB | feature'y: 251
+    - entitiesL_8_part117.js: 0.90 MB | feature'y: 585
+    - entitiesL_8_part118.js: 0.90 MB | feature'y: 272
+    - entitiesL_8_part119.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part120.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part121.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part122.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part123.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part124.js: 0.90 MB | feature'y: 901
+    - entitiesL_8_part125.js: 0.90 MB | feature'y: 550
+    - entitiesL_8_part126.js: 0.90 MB | feature'y: 229
+    - entitiesL_8_part127.js: 0.90 MB | feature'y: 423
+    - entitiesL_8_part128.js: 0.90 MB | feature'y: 396
+    - entitiesL_8_part129.js: 0.90 MB | feature'y: 527
+    - entitiesL_8_part130.js: 0.90 MB | feature'y: 399
+    - entitiesL_8_part131.js: 0.90 MB | feature'y: 566
+    - entitiesL_8_part132.js: 0.90 MB | feature'y: 468
+    - entitiesL_8_part133.js: 0.90 MB | feature'y: 421
+    - entitiesL_8_part134.js: 0.90 MB | feature'y: 500
+    - entitiesL_8_part135.js: 0.90 MB | feature'y: 429
+    - entitiesL_8_part136.js: 0.90 MB | feature'y: 525
+    - entitiesL_8_part137.js: 0.90 MB | feature'y: 521
+    - entitiesL_8_part138.js: 0.90 MB | feature'y: 913
+    - entitiesL_8_part139.js: 0.90 MB | feature'y: 1679
+    - entitiesL_8_part140.js: 0.90 MB | feature'y: 1690
+    - entitiesL_8_part141.js: 0.90 MB | feature'y: 1680
+    - entitiesL_8_part142.js: 0.90 MB | feature'y: 1688
+    - entitiesL_8_part143.js: 0.90 MB | feature'y: 1688
+    - entitiesL_8_part144.js: 0.90 MB | feature'y: 1695
+    - entitiesL_8_part145.js: 0.65 MB | feature'y: 1213
+
+layers/entitiesP_5.js
+  status: SPLIT
+  rozmiar przed: 8.43 MB
+  feature'y: 15418 -> 15418
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesP_5_init.js: 0.00 MB | feature'y: 0
+    - entitiesP_5_part001.js: 0.90 MB | feature'y: 1652
+    - entitiesP_5_part002.js: 0.90 MB | feature'y: 1634
+    - entitiesP_5_part003.js: 0.90 MB | feature'y: 1642
+    - entitiesP_5_part004.js: 0.90 MB | feature'y: 1656
+    - entitiesP_5_part005.js: 0.90 MB | feature'y: 1661
+    - entitiesP_5_part006.js: 0.90 MB | feature'y: 1636
+    - entitiesP_5_part007.js: 0.90 MB | feature'y: 1638
+    - entitiesP_5_part008.js: 0.90 MB | feature'y: 1633
+    - entitiesP_5_part009.js: 0.90 MB | feature'y: 1640
+    - entitiesP_5_part010.js: 0.34 MB | feature'y: 626
+
+layers/entitiesP_9.js
+  status: SPLIT
+  rozmiar przed: 14.74 MB
+  feature'y: 26566 -> 26566
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesP_9_init.js: 0.00 MB | feature'y: 0
+    - entitiesP_9_part001.js: 0.90 MB | feature'y: 1617
+    - entitiesP_9_part002.js: 0.90 MB | feature'y: 1613
+    - entitiesP_9_part003.js: 0.90 MB | feature'y: 1695
+    - entitiesP_9_part004.js: 0.90 MB | feature'y: 1671
+    - entitiesP_9_part005.js: 0.90 MB | feature'y: 1674
+    - entitiesP_9_part006.js: 0.90 MB | feature'y: 1659
+    - entitiesP_9_part007.js: 0.90 MB | feature'y: 1631
+    - entitiesP_9_part008.js: 0.90 MB | feature'y: 1575
+    - entitiesP_9_part009.js: 0.90 MB | feature'y: 1573
+    - entitiesP_9_part010.js: 0.90 MB | feature'y: 1584
+    - entitiesP_9_part011.js: 0.90 MB | feature'y: 1592
+    - entitiesP_9_part012.js: 0.90 MB | feature'y: 1637
+    - entitiesP_9_part013.js: 0.90 MB | feature'y: 1588
+    - entitiesP_9_part014.js: 0.90 MB | feature'y: 1581
+    - entitiesP_9_part015.js: 0.90 MB | feature'y: 1613
+    - entitiesP_9_part016.js: 0.90 MB | feature'y: 1613
+    - entitiesP_9_part017.js: 0.37 MB | feature'y: 650
+
+Pliki przekraczające próg po operacji:
+  brak
+
+Wynik walidacji: OK
