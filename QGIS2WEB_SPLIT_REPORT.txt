@@ -1,0 +1,37 @@
+qgis2web GitHub Splitter — raport
+==============================================
+Źródło: C:\Users\praco\Desktop\test splitera\README
+Próg dzielenia: 20.00 MB
+Docelowy rozmiar części: 19.00 MB
+
+layers/entitiesL_4.js
+  status: SPLIT
+  rozmiar przed: 31.54 MB
+  feature'y: 17481 -> 17481
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesL_4_init.js: 0.00 MB | feature'y: 0
+    - entitiesL_4_part001.js: 19.00 MB | feature'y: 11147
+    - entitiesL_4_part002.js: 12.54 MB | feature'y: 6334
+
+layers/entitiesL_8.js
+  status: SPLIT
+  rozmiar przed: 129.98 MB
+  feature'y: 180949 -> 180949
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesL_8_init.js: 0.00 MB | feature'y: 0
+    - entitiesL_8_part001.js: 19.00 MB | feature'y: 29852
+    - entitiesL_8_part002.js: 19.00 MB | feature'y: 35748
+    - entitiesL_8_part003.js: 19.00 MB | feature'y: 35657
+    - entitiesL_8_part004.js: 19.00 MB | feature'y: 35665
+    - entitiesL_8_part005.js: 19.00 MB | feature'y: 18189
+    - entitiesL_8_part006.js: 19.00 MB | feature'y: 8788
+    - entitiesL_8_part007.js: 15.98 MB | feature'y: 17050
+
+Pliki przekraczające próg po operacji:
+  brak
+
+Wynik walidacji: OK
