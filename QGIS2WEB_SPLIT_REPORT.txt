@@ -1,0 +1,89 @@
+qgis2web GitHub Splitter — raport
+==============================================
+Źródło: C:\Users\praco\Desktop\test splitera\README
+Próg dzielenia: 5.00 MB
+Docelowy rozmiar części: 4.50 MB
+
+layers/entitiesL_4.js
+  status: SPLIT
+  rozmiar przed: 31.54 MB
+  feature'y: 17481 -> 17481
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesL_4_init.js: 0.00 MB | feature'y: 0
+    - entitiesL_4_part001.js: 4.50 MB | feature'y: 4329
+    - entitiesL_4_part002.js: 4.50 MB | feature'y: 1682
+    - entitiesL_4_part003.js: 4.50 MB | feature'y: 2292
+    - entitiesL_4_part004.js: 4.50 MB | feature'y: 2388
+    - entitiesL_4_part005.js: 4.50 MB | feature'y: 2140
+    - entitiesL_4_part006.js: 4.50 MB | feature'y: 2153
+    - entitiesL_4_part007.js: 4.50 MB | feature'y: 2453
+    - entitiesL_4_part008.js: 0.06 MB | feature'y: 44
+
+layers/entitiesL_8.js
+  status: SPLIT
+  rozmiar przed: 129.98 MB
+  feature'y: 180949 -> 180949
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesL_8_init.js: 0.00 MB | feature'y: 0
+    - entitiesL_8_part001.js: 4.50 MB | feature'y: 4824
+    - entitiesL_8_part002.js: 4.50 MB | feature'y: 7013
+    - entitiesL_8_part003.js: 4.50 MB | feature'y: 7646
+    - entitiesL_8_part004.js: 4.50 MB | feature'y: 8476
+    - entitiesL_8_part005.js: 4.50 MB | feature'y: 8475
+    - entitiesL_8_part006.js: 4.50 MB | feature'y: 8472
+    - entitiesL_8_part007.js: 4.50 MB | feature'y: 8476
+    - entitiesL_8_part008.js: 4.50 MB | feature'y: 8441
+    - entitiesL_8_part009.js: 4.50 MB | feature'y: 8460
+    - entitiesL_8_part010.js: 4.50 MB | feature'y: 8449
+    - entitiesL_8_part011.js: 4.50 MB | feature'y: 8422
+    - entitiesL_8_part012.js: 4.50 MB | feature'y: 8451
+    - entitiesL_8_part013.js: 4.50 MB | feature'y: 8442
+    - entitiesL_8_part014.js: 4.50 MB | feature'y: 8445
+    - entitiesL_8_part015.js: 4.50 MB | feature'y: 8445
+    - entitiesL_8_part016.js: 4.50 MB | feature'y: 8446
+    - entitiesL_8_part017.js: 4.50 MB | feature'y: 8445
+    - entitiesL_8_part018.js: 4.50 MB | feature'y: 8445
+    - entitiesL_8_part019.js: 4.50 MB | feature'y: 4967
+    - entitiesL_8_part020.js: 4.50 MB | feature'y: 1834
+    - entitiesL_8_part021.js: 4.50 MB | feature'y: 1214
+    - entitiesL_8_part022.js: 4.50 MB | feature'y: 3056
+    - entitiesL_8_part023.js: 4.50 MB | feature'y: 2294
+    - entitiesL_8_part024.js: 4.50 MB | feature'y: 1569
+    - entitiesL_8_part025.js: 4.50 MB | feature'y: 2141
+    - entitiesL_8_part026.js: 4.50 MB | feature'y: 1992
+    - entitiesL_8_part027.js: 4.50 MB | feature'y: 2407
+    - entitiesL_8_part028.js: 4.50 MB | feature'y: 5645
+    - entitiesL_8_part029.js: 4.02 MB | feature'y: 7557
+
+layers/entitiesP_5.js
+  status: SPLIT
+  rozmiar przed: 8.43 MB
+  feature'y: 15418 -> 15418
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesP_5_init.js: 0.00 MB | feature'y: 0
+    - entitiesP_5_part001.js: 4.50 MB | feature'y: 8253
+    - entitiesP_5_part002.js: 3.93 MB | feature'y: 7165
+
+layers/entitiesP_9.js
+  status: SPLIT
+  rozmiar przed: 14.74 MB
+  feature'y: 26566 -> 26566
+  SHA-256 1:1: OK
+  index.html: OK
+  pliki:
+    - entitiesP_9_init.js: 0.00 MB | feature'y: 0
+    - entitiesP_9_part001.js: 4.50 MB | feature'y: 8279
+    - entitiesP_9_part002.js: 4.50 MB | feature'y: 8031
+    - entitiesP_9_part003.js: 4.50 MB | feature'y: 8022
+    - entitiesP_9_part004.js: 1.25 MB | feature'y: 2234
+
+Pliki przekraczające próg po operacji:
+  brak
+
+Wynik walidacji: OK
